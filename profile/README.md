@@ -1,5 +1,5 @@
 
-<h1>Lazarus DEV</h1>
+<h1>Lazarus DEV</h1> <img align="center" alt="visitors" src="https://gpvc.arturio.dev/lazarus-dev" />
 <p align="center">
     <img width="250" height="" src="https://i.imgur.com/a5rMYqb.png">
 </p>
@@ -7,11 +7,14 @@
 ----
 
 ## 🚀 About us
-Lazarus-DEV - TBD
+We are a community of passionate developers based in Spain. Our vision is to help communities grow with our help providing quality resources and support specially on the very beginning. We work with mainly with qb-core framework based projects, create our own scripts and adapt other open-source resources that might need some performance improvements.
 
-<p align="center">
-    <img align="center" alt="visitors" src="https://gpvc.arturio.dev/lazarus-dev" />
-</p>
+## Our vision 
+- Help creating new GTA RP communities by providing basic resources to start them.
+- Quality as our main priority. Not only functionality is important.
+- Leakers are not welcome. We respect others work, as we want for ourselves that our work also is.
+
+----
 
 ## 🔗 Links
 <p align="center">
@@ -21,4 +24,4 @@ Lazarus-DEV - TBD
 
 ----
 
-## 🔗 Partners
+<p align="center"><b>Thanks for trust in Lazarus Dev</b></p>
