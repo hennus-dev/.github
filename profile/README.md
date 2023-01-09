@@ -1,5 +1,5 @@
 
-<h1>HENNU´s DEV</h1> <img align="center" alt="visitors" src="https://gpvc.arturio.dev/lazarus-dev" />
+<h1>Hennu´s DEV</h1> <img align="center" alt="visitors" src="https://gpvc.arturio.dev/lazarus-dev" />
 <p align="center">
     <img width="250" height="" src="https://i.imgur.com/a5rMYqb.png">
 </p>
