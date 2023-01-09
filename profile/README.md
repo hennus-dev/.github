@@ -24,4 +24,4 @@ We are a community of passionate developers based in Spain. Our vision is to hel
 
 ----
 
-<p align="center"><b>Thanks for trust in Lazarus Dev</b></p>
+<p align="center"><b>Thanks for trust in Hennu´s Dev</b></p>
